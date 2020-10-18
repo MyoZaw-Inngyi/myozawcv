@@ -41,4 +41,10 @@ body {
     text-align: left;
     border-bottom: 2px solid white;
    }
+@media screen and (max-height: 450px: max-width: 500px){
+    .sidemenu ui li a{font-size:10px;
+        width: 80px;
+    height: 40px;
+    }
+}
    
